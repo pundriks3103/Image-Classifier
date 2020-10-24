@@ -410,7 +410,7 @@ actual_test_image
 
 
 
-![png](output_32_1.png)
+![png](https://github.com/pundriks3103/Image-Classifier/blob/main/output_32_1.png?raw=true)
 
 
 
